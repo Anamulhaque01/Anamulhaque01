@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Anamulhaque01/Anamulhaque01/main/tumblr_owi25v6uAo1r4gsiio1_1280.webp" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Anamul%20Haque&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
@@ -49,15 +53,3 @@ I am a dedicated **Full-Stack Developer** and a Computer Science student at **No
 <p align="center">
   <i>"Code is poetry when written with intent."</i>
 </p>
-
-
-
-
-
-
-
-![tumblr_owi25v6uAo1r4gsiio1_1280](https://github.com/user-attachments/assets/66c03cca-8b9f-494d-bb89-c058eca64e7a)
-
-
-
-
