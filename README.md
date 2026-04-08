@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tumblr_owi25v6uAo1r4gsiio1_1280.webp" width="100%" alt="Header Banner" />
+  <img src="[tumblr_owi25v6uAo1r4gsiio1_1280.webp" width="100%" alt="Header Banner](https://brunopixels.tumblr.com/image/165491246267)" />
 </p>
 
 ## 👋 Hello, I'm Anamul Haque
@@ -49,3 +49,10 @@ I am a dedicated **Full-Stack Developer** and a Computer Science student at **No
 <p align="center">
   <i>"Code is poetry when written with intent."</i>
 </p>
+
+
+
+
+
+
+
