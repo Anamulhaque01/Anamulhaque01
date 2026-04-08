@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anamulhaque01/Anamulhaque01/main/tumblr_owi25v6uAo1r4gsiio1_1280.webp" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Anamul%20Haque&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="tumblr_owi25v6uAo1r4gsiio1_1280.webp" width="100%" alt="Header Banner" />
 </p>
 
 ## 👋 Hello, I'm Anamul Haque
