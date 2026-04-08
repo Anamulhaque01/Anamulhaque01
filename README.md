@@ -21,7 +21,7 @@ I am a dedicated **Full-Stack Developer** and a Computer Science student at **No
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,js,html,css,git,github,figma,java" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,js,html,css,git,github" />
 </p>
 
 ---
@@ -49,3 +49,15 @@ I am a dedicated **Full-Stack Developer** and a Computer Science student at **No
 <p align="center">
   <i>"Code is poetry when written with intent."</i>
 </p>
+
+
+
+
+
+
+
+![tumblr_owi25v6uAo1r4gsiio1_1280](https://github.com/user-attachments/assets/66c03cca-8b9f-494d-bb89-c058eca64e7a)
+
+
+
+
