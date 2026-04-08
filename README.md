@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[tumblr_owi25v6uAo1r4gsiio1_1280.webp" width="100%" alt="Header Banner](https://brunopixels.tumblr.com/image/165491246267)" />
+  <img src="https://github.com/Anamulhaque01/Anamulhaque01/blob/main/tumblr_owi25v6uAo1r4gsiio1_1280.webp?raw=true" />
 </p>
 
 ## 👋 Hello, I'm Anamul Haque
