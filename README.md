@@ -1,47 +1,49 @@
-# 👨‍💻 Anamul Haque
-### Full-Stack Developer | MERN Specialist | CS Student @ NUBTK
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Anamul%20Haque&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
+## 👋 Hello, I'm Anamul Haque
+### Full-Stack Developer | MERN Specialist | CSE Student @ NUBTK
+
+---
+
+### 📖 About Me
+I am a dedicated **Full-Stack Developer** and a Computer Science student at **Northern University of Business and Technology Khulna (NUBTK)**. I specialize in the **MERN Stack**, focusing on building high-performance web applications with a minimalist design aesthetic. I am passionate about creating fluid user experiences using modern tools like **Tailwind CSS** and **GSAP**.
+
+---
+
+### ⚡ Current Activities
+* 🔭 **Exploring Next.js:** Mastering Server-Side Rendering (SSR) and App Router for scalable applications.
+* 🌱 **Software Engineering Fundamentals:** Deep-diving into **Java and Data Structures & Algorithms (DSA)**.
+* ♟️ **Strategic Thinking:** Improving my skills in **Chess** to sharpen my analytical mindset.
+
+---
+
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Remote-Ready-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Khulna-BD-orange?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,js,html,css,git,github,figma,java" />
 </p>
 
 ---
 
-### 💫 About Me
-I am a **Junior Full-Stack Developer** based in Khulna, Bangladesh, currently pursuing my degree in **Computer Science and Engineering**. I specialize in building high-performance web applications with a focus on **minimalist design** and **fluid interactions**.
-
-* 🌱 Deep-diving into **Java & Data Structures (DSA)** to strengthen my software engineering foundation.
-* 🎨 Passionate about **GSAP** and **Spline** for creating immersive 3D web experiences.
-* ⚡ Fun fact: I’m on a journey to reach a master level in **Chess**.
-
----
-
-### 🚀 Tech Stack & Tools
-**Frontend & Design**
-`React.js` `Next.js` `Tailwind CSS` 
-
-**Backend & Database**
-`Node.js` `Express.js` `MongoDB` 
-
-**DevOps & Workflow**
-`Git` `GitHub` `Vercel` `Netlify`
-
-
----
-
-### 📊 GitHub Activity
+### 📊 GitHub Stats & Progress
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anamulhaque01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anamul Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamulhaque01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anamulhaque01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📩 Let's Connect
-* **LinkedIn:** [linkedin.com/in/Anamulhaque01](https://linkedin.com/in/Anamulhaque01)
-* **Location:** Khulna, Bangladesh (Available for Global Remote Opportunities)
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/anamulhaque-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 <p align="center">
