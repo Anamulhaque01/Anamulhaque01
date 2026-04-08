@@ -12,7 +12,6 @@
 ### 💫 About Me
 I am a **Junior Full-Stack Developer** based in Khulna, Bangladesh, currently pursuing my degree in **Computer Science and Engineering**. I specialize in building high-performance web applications with a focus on **minimalist design** and **fluid interactions**.
 
-* 🔭 Currently optimizing my project **CampusArchives** for better scalability.
 * 🌱 Deep-diving into **Java & Data Structures (DSA)** to strengthen my software engineering foundation.
 * 🎨 Passionate about **GSAP** and **Spline** for creating immersive 3D web experiences.
 * ⚡ Fun fact: I’m on a journey to reach a master level in **Chess**.
@@ -21,23 +20,14 @@ I am a **Junior Full-Stack Developer** based in Khulna, Bangladesh, currently pu
 
 ### 🚀 Tech Stack & Tools
 **Frontend & Design**
-`React.js` `Next.js` `Tailwind CSS` `GSAP` `Figma` `Spline`
+`React.js` `Next.js` `Tailwind CSS` 
 
 **Backend & Database**
-`Node.js` `Express.js` `MongoDB` `REST APIs`
+`Node.js` `Express.js` `MongoDB` 
 
 **DevOps & Workflow**
 `Git` `GitHub` `Vercel` `Netlify`
 
----
-
-### 📂 Featured Projects
-
-#### [CampusArchives](https://github.com/Anamulhaque01)
-> A digital repository for centralized study materials. Built with MERN to solve document accessibility for university students.
-
-#### [Ola E-Commerce](https://github.com/Anamulhaque01)
-> A high-end e-commerce platform focusing on a minimalist UI and seamless checkout experience using Next.js and MongoDB.
 
 ---
 
